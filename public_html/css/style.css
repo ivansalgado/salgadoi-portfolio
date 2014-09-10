@@ -1,5 +1,8 @@
 body {
-    background-color: #ccffff;
+    background-image: url(http://2.bp.blogspot.com/-6c62d3yroSE/UFbb_esa7nI/AAAAAAAAARo/b1_M0I0Afjo/s1600/Challweb-.jpg);
+    background-repeat: no-repeat;
+    background-size: 1280px;
+    
 }
 
 #current-link {
@@ -7,32 +10,48 @@ body {
 }
 
 .uppercase{
-    text-transform: upperrcase;
-    font-size: 40px;
+    text-transform: uppercase;
+    font-size: 60px;
     text-decoration-color: coral;
 }
 
-img{
-    margin-left: 30px;
+h1{
+  font-family: 'Poiret One', cursive;
+  color: #ff5722;
 }
 
-h1{
-    border: 15px solid orange;
-    border-style: groove;
-    padding-left: 10px;
-    margin: 10px;
-}
 h2{
-    margin: 5px;
-    margin-left: 30px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p{
-    margin-left: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16.3px;
 }
 
 header{
-    margin-left: 30px;
+    margin-left: 30px; 
     margin-top: 20px;
 }
 
+article{
+    color: #fff59d;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 30px;
+}
+
+img{
+    position: 1000px;
+    margin-left: 40px;
+    
+}
+
+a{
+   color: #ff5722;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px; 
+}
+
+nav{
+    margin-top: 30px;
+}
